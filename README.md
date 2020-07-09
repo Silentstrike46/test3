@@ -1,3 +1,5 @@
 # test3
 
-x=2
+This is an example of a repository that is being automatically mirrored from
+a private gitlab repo to a public github repo
+x=1
